@@ -1,0 +1,18 @@
+#grandparent {
+    background-color: red;
+    flex-direction: column;
+    height: 400px;
+    width: 200px;
+}
+
+#parent {
+    background-color: royalblue;
+    height: 180px;
+    width: 200px;
+}
+
+#child {
+    background-color: seagreen;
+    height: 60px;
+    width: 60px;
+}
